@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielnaswan
 - 👀 I’m interested in being a great CODER!
-- 🌱 I’m currently learning on how to communicate with computer program using C and JAVA
+- 🌱 I’m currently learning on how to develop web app using JAVASCRIPT and LARAVEL
 - 💞️ I’m looking to collaborate on a good tech startup company to grow with
 - 📫 How to reach me @danielnaswan on both INSTAGRAM and X
 
